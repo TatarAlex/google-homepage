@@ -1,0 +1,1 @@
+This is a HTML/CSS copy of google home page.
